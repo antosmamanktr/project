@@ -1,3 +1,3 @@
-var a =123;
-console.log("A conflict ..... Broken Code... will happen");
-console.log("LOGING -->>",a)
+var a = 500;
+console.log("MAIN BRANCH CODE");
+console.log("VALUE FROM MAIN -->>", a);
