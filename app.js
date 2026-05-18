@@ -1,3 +1,3 @@
-var a = 999;
-console.log("FEATURE LOGIN CODE");
-console.log("VALUE FROM FEATURE LOGIN -->>", a);
+var a = 500;
+console.log("MAIN BRANCH CODE");
+console.log("VALUE FROM MAIN -->>", a);
