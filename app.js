@@ -1,3 +1,3 @@
-var a =123;
-console.log("A conflict ..... Broken Code... will happen");
-console.log("LOGING -->>",a)
+var a = 999;
+console.log("FEATURE LOGIN CODE");
+console.log("VALUE FROM FEATURE LOGIN -->>", a);
