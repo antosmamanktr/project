@@ -6,3 +6,4 @@ console.log("App Started");
 
 console.log("Dark mode added");
 console.log("Login Screen Added");
+console.log("API Setup");
