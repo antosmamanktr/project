@@ -5,3 +5,4 @@ var ab=123;
 var a=1;
 var Str="I am a JOAT"
 var c=213;
+var b =2;
