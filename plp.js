@@ -9,6 +9,3 @@ var Str="I am a JOAT"
 var c=213;
 var d=12345
 console.log("CONTENT FOR CHERRY PCIK");
-var sq1=1;
-var sq2=2;
-var sq3=3;
